@@ -1,0 +1,3 @@
+# ARcropolis
+ARcropolis is a browser based, online, educational, two-player Augmented Reality (AR) game. The goal of  ARcropolis is to educate elementary school students about the mythology surrounding the 'birth' of the city of Athens, as well as to entertain. Both players are given a 24 cards to print and use throughout the course of the game. Each card represents part of the story and the players' goal is to collaborate in a turn-based manner in order to compose the story from its pieces. ARcropolis was made in cooperation with Manos Giannisakis (former classmate) as a Thesis project. This project was selected and published as one of the best theses of the year by the Computer Science department at the University of Athens.
+TEAM FORTRESS 2 LOW POLY MODELS IN ASSETS.
